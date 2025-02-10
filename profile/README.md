@@ -4,7 +4,7 @@
 
 ## About Us
 
-We're Anthony and Jonathan, students at Algonquin College and Royal Holloway, passionate about the intersection of finance and programming. A.J. Financial Solutions is our venture to develop cutting-edge financial tools!
+We're Anthony and Jonathan, students at Toronto Metropolitan University and Royal Holloway, passionate about the intersection of finance and programming. A.J. Financial Solutions is our venture to develop cutting-edge financial tools!
 
 ## Our Mission
 
